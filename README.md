@@ -721,6 +721,9 @@
 - [AppFolder](https://github.com/dreymonde/AppFolder) - AppFolder is a lightweight framework that lets you design a friendly, strongly-typed representation of a directories inside your app's container.
 - [ZipZap](https://github.com/pixelglow/ZipZap) - zip file I/O library for iOS, macOS and tvOS.
 - [AMSMB2](https://github.com/amosavian/AMSMB2) - Swift framework to connect SMB 2/3 shares for iOS.
+- [SSZipArchive](https://github.com/ZipArchive/ZipArchive.git) - ZipArchive is a simple utility class for zipping and unzipping files on iOS, macOS and tvOS.
+
+
 
 ## Functional Programming
 
