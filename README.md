@@ -77,6 +77,8 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 - [URLNavigator](https://github.com/devxoul/URLNavigator) - Elegant URL Routing for Swift
 - [WAAppRouting](https://github.com/Wasappli/WAAppRouting) - iOS routing done right. Handles both URL recognition and controller displaying with parsed parameters. All in one line, controller stack preserved automatically!
 - [ZIKRouter](https://github.com/Zuikyo/ZIKRouter) - An interface-oriented router for discovering modules and injecting dependencies with protocol in OC & Swift, iOS & macOS. Handles route in a type safe way.
+- [UIRouter](https://github.com/wxlpp/UIRouter.git) - A Swift Router. You can learn some from it.
+- [TheRouter](https://github.com/HuolalaTech/hll-wp-therouter-ios.git) - A framework for assisting in the renovation of iOS componentization
 
 ## Apple TV
 
